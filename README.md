@@ -1,2 +1,0 @@
-# docs
-gpt API docs
